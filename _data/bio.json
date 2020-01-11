@@ -1,72 +1,44 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Daniel Farmer",
+    "label": "Software Engineer",
+    "picture": "https://techfolios.github.io/images/profile.jpg",
+    "email": "dan@danthedev.net",
+    "phone": "-",
+    "website": "https://faaarmer.github.io",
+    "summary": "",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "4000",
+      "city": "Brisbane",
+      "countryCode": "AU",
+      "region": "Queensland"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "faaarmer",
+        "url": "http://github.com/faaarmer"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "dan-farmer-",
+        "url": "http://linkedin.com/in/dan-farmer-"
       }
     ]
   },
   "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
-    }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Node.JS",
+        "React",
+        "CSS",
+        "SQL",
       ]
     },
     {
@@ -76,18 +48,17 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Griffith University, Brisbane",
+      "area": "Software Engineering",
+      "studyType": "Bachelor of Engineering (BEng) with Honours Class IIB",
+      "startDate": "2011-02-01",
+      "endDate": "2015-02-01",
       "gpa": "",
       "courses": [
       ]
